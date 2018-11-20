@@ -3,9 +3,11 @@
 Los siguientes ejercicios los debes realizar en tu máquina real, no es necesario que los subas a un repositorio en github. Indica los pasos seguidos para realizar cada ejercicio en este mismo fichero.
 
 1. Crea un directorio llamado _**destruction**_:
+
 mkdir destruction.
 
 2. Cámbiate a dicho directorio: 
+
 cd destruction.
 
 3. Inicializa un repositorio git vacío:
